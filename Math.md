@@ -154,6 +154,11 @@ A **matrix A** has an inverse **\( A^{-1} \)** if and only if its determinant is
 
 ---
 
+## Added by chanchal
+![screencapture-chatgpt-c-67aed062-5798-8003-972c-7408c6bf9c4e-2025-02-14-11_08_38](https://github.com/user-attachments/assets/4e759919-e000-4c17-ae51-00ee1d5a1659)
+
+
+
 > 📝 **Note:** Understanding matrices is essential in various fields of **computer science**, including **machine learning, graphics, and algorithms**.
 
 🚀 *Keep Practicing!* 🎯
